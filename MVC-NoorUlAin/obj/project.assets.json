@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ihtishamsudo/Model-View-Controller-Noor-ul-Ain/MVC-NoorUlAin/MVC-NoorUlAin.csproj",
+      "projectUniqueName": "/home/ihtishamsudo/Audits/Model-View-Controller-Noor-ul-Ain/MVC-NoorUlAin/MVC-NoorUlAin.csproj",
       "projectName": "MVC-NoorUlAin",
-      "projectPath": "/home/ihtishamsudo/Model-View-Controller-Noor-ul-Ain/MVC-NoorUlAin/MVC-NoorUlAin.csproj",
+      "projectPath": "/home/ihtishamsudo/Audits/Model-View-Controller-Noor-ul-Ain/MVC-NoorUlAin/MVC-NoorUlAin.csproj",
       "packagesPath": "/home/ihtishamsudo/.nuget/packages/",
-      "outputPath": "/home/ihtishamsudo/Model-View-Controller-Noor-ul-Ain/MVC-NoorUlAin/obj/",
+      "outputPath": "/home/ihtishamsudo/Audits/Model-View-Controller-Noor-ul-Ain/MVC-NoorUlAin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ihtishamsudo/.nuget/NuGet/NuGet.Config"
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
