@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC-NoorUlAin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+806040819624ce65f2d028853aa5b2b59e16661f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1778e77801f917b02dcd807b6815806a3dfb65b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC-NoorUlAin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC-NoorUlAin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
